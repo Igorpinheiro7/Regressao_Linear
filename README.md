@@ -1,8 +1,5 @@
 # Regressao_Linear
 
-# Introdução
-Neste repositório, estabelecemos o preço de venda de casas, analisando as diversas características que influenciam sua precificação. Para alcançar esse objetivo, utilizei a regressão linear como metodologia. Vale lembrar que todas as análises foram realizadas no Colab para facilitar o processo.
-
 # Base_de_dados
 Utilizamos como inspiração a famosa base de dados [House Price do Kaggle](https://www.kaggle.com/code/ahmedmahmoud16/house-prices-regression). Fiz algumas transformações na base de dados apresentada neste projeto. a base de dados utilizada está dísponivel no repositório para download.
 
@@ -25,3 +22,6 @@ capacidade_carros_garagem: Esta variável indica a capacidade da garagem da prop
 qualidade_da_cozinha_Excelente: Esta é uma variável categórica que avalia a qualidade da cozinha na propriedade. Neste caso, assume-se que se a cozinha for considerada "Excelente" é representada por 1, e caso contrário, por 0.
 
 preco_de_venda: Este é o preço de venda da propriedade em reais. É a variável alvo que se tenta prever usando os outros atributos da propriedade.
+
+# Introdução
+Neste repositório, estabelecemos o preço de venda de casas, analisando as diversas características que influenciam sua precificação. Para alcançar esse objetivo, utilizei a regressão linear como metodologia. Vale lembrar que todas as análises foram realizadas no Colab para facilitar o processo.
