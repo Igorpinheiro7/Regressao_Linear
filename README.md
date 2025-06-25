@@ -4,7 +4,7 @@
 Neste repositório, estabelecemos o preço de venda de casas, analisando as diversas características que influenciam sua precificação. Para alcançar esse objetivo, utilizei a regressão linear como metodologia. Vale lembrar que todas as análises foram realizadas no Colab para facilitar o processo.
 
 # Base_de_dados
-Utilizamos como inspiração a famosa base de dados House Price do Kaggle. Fiz algumas transformações na base de dados apresentada neste projeto. a base de dados utilizada está dísponivel no repositório para download.
+Utilizamos como inspiração a famosa base de dados [House Price do Kaggle](https://www.kaggle.com/code/ahmedmahmoud16/house-prices-regression). Fiz algumas transformações na base de dados apresentada neste projeto. a base de dados utilizada está dísponivel no repositório para download.
 
 
 ![Image](https://github.com/user-attachments/assets/935d8b79-1dbc-4aff-a144-5dd82bef3fb7)
