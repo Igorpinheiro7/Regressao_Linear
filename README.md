@@ -24,4 +24,4 @@ qualidade_da_cozinha_Excelente: Esta é uma variável categórica que avalia a q
 preco_de_venda: Este é o preço de venda da propriedade em reais. É a variável alvo que se tenta prever usando os outros atributos da propriedade.
 
 # Introdução
-Neste repositório, estabelecemos o preço de venda de casas, analisando as diversas características que influenciam sua precificação. Para alcançar esse objetivo, utilizei a regressão linear como metodologia. Vale lembrar que todas as análises foram realizadas no Colab para facilitar o processo.
+Neste repositório, estabelecemos o preço de venda de casas, analisando as diversas características que influenciam sua precificação. Para alcançar esse objetivo, utilizei a regressão linear como metodologia. Vale lembrar que todas as análises foram realizadas no Colab para facilitar o processo
