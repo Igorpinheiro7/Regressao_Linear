@@ -25,3 +25,15 @@ preco_de_venda: Este é o preço de venda da propriedade em reais. É a variáve
 
 # Introdução
 Neste repositório, estabelecemos o preço de venda de casas, analisando as diversas características que influenciam sua precificação. Para alcançar esse objetivo, utilizei a regressão linear como metodologia. Vale lembrar que todas as análises foram realizadas no Colab para facilitar o processo.
+
+
+# Análise Visual dos Dados
+Olhando para a distribuição dos pontos azuis, podemos tirar algumas conclusões rápidas de análise de dados:
+
+Tendência Positiva: Existe uma correlação positiva clara. À medida que a "Area do primeiro andar" aumenta (indo para a direita), o "Preço de venda" também tende a subir (indo para cima).
+
+Concentração: A maior densidade de imóveis está concentrada em áreas entre 50 e 150 unidades de tamanho, custando até 1.5 milhão.
+
+Outliers (Valores Discrepantes): Há alguns pontos isolados no topo. Por exemplo, um imóvel com cerca de 170 de área foi vendido por mais de 3 milhões (um valor bem acima da média para aquele tamanho), enquanto outros imóveis com área maior (próximos a 200) foram vendidos por valores menores.
+
+<img width="1042" height="823" alt="Image" src="https://github.com/user-attachments/assets/08879716-46d3-4024-8a5b-ee9c94365a24" />
