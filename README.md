@@ -36,4 +36,4 @@ Concentração: A maior densidade de imóveis está concentrada em áreas entre 
 
 Outliers (Valores Discrepantes): Há alguns pontos isolados no topo. Por exemplo, um imóvel com cerca de 170 de área foi vendido por mais de 3 milhões (um valor bem acima da média para aquele tamanho), enquanto outros imóveis com área maior (próximos a 200) foram vendidos por valores menores.
 
-<img width="1042" height="823" alt="Image" src="https://github.com/user-attachments/assets/08879716-46d3-4024-8a5b-ee9c94365a24" />
+<img width="683" height="743" alt="Image" src="https://github.com/user-attachments/assets/9b92ec14-68bf-4f72-9067-a986a935c7f0" />
