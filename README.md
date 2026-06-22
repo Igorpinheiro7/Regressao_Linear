@@ -50,6 +50,8 @@ Variável resposta/dependente: Preço da casa
 
 <img width="1425" height="450" alt="Image" src="https://github.com/user-attachments/assets/c0ba04b7-e469-4468-8532-133e1f896408" />
 
+# Distribuição do Preço de Vendas
+
 Assimetria à Direita (Right-Skewed / Positive Skew): A maior parte dos imóveis está concentrada entre 500 mil e 1 milhão (onde estão as barras mais altas). Conforme o preço aumenta, a "cauda" do gráfico vai se alongando de forma tênue para a direita, estendendo-se até os 3 milhões. Isso é extremamente comum em dados imobiliários, onde a maioria dos imóveis tem preços moderados e poucos têm valores muito elevados (imóveis de luxo).
 
 Moda/Pico: O preço mais frequente (o pico do gráfico) está ligeiramente acima de 500 mil, por volta de 700 mil.
