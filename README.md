@@ -36,16 +36,19 @@ Concentração: A maior densidade de imóveis está concentrada em áreas entre 
 
 Outliers (Valores Discrepantes): Há alguns pontos isolados no topo. Por exemplo, um imóvel com cerca de 170 de área foi vendido por mais de 3 milhões (um valor bem acima da média para aquele tamanho), enquanto outros imóveis com área maior (próximos a 200) foram vendidos por valores menores.
 
+
 <img width="683" height="743" alt="Image" src="https://github.com/user-attachments/assets/9b92ec14-68bf-4f72-9067-a986a935c7f0" />
 
+
 # Explicando a reta
-Ajustamos uma reta entre o $m^2$ do primeiro andar e o preço da casa. Queremos explicar o preço da casa a partir do seu tamanho, por isso dizemos que:
+
+ Ajustamos uma reta entre o $m^2$ do primeiro andar e o preço da casa. Queremos explicar o preço da casa a partir do seu tamanho, por isso dizemos que:
 
 * Variável explicativa/independente: Área do primeiro andar
 
 * Variável resposta/dependente: Preço da casa
 
-<img width="1425" height="450" alt="Image" src="https://github.com/user-attachments/assets/656ac117-9ca5-45ae-bbc5-30e2d5c17df6" /
+<img width="1425" height="450" alt="Image" src="https://github.com/user-attachments/assets/c0ba04b7-e469-4468-8532-133e1f896408" />
 
 Assimetria à Direita (Right-Skewed / Positive Skew): A maior parte dos imóveis está concentrada entre 500 mil e 1 milhão (onde estão as barras mais altas). Conforme o preço aumenta, a "cauda" do gráfico vai se alongando de forma tênue para a direita, estendendo-se até os 3 milhões. Isso é extremamente comum em dados imobiliários, onde a maioria dos imóveis tem preços moderados e poucos têm valores muito elevados (imóveis de luxo).
 
