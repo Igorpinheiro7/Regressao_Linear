@@ -42,7 +42,7 @@ Outliers (Valores Discrepantes): Há alguns pontos isolados no topo. Por exemplo
 
 # Explicando a Reta
 
-Ajustamos uma reta entre o  $m^2$ do primeiro andar e o preço da casa. Queremos explicar o preço da casa a partir do seu tamanho, por isso dizemos que:
+Ajuste de uma reta entre o  $m^2$ do primeiro andar e o preço da casa. Queremos explicar o preço da casa a partir do seu tamanho, por isso dizemos que:
 
 Variável explicativa/independente: Área do primeiro andar
 
