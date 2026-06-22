@@ -40,13 +40,13 @@ Outliers (Valores Discrepantes): Há alguns pontos isolados no topo. Por exemplo
 <img width="683" height="743" alt="Image" src="https://github.com/user-attachments/assets/9b92ec14-68bf-4f72-9067-a986a935c7f0" />
 
 
-# Explicando a reta
+# Explicando a Reta
 
- Ajustamos uma reta entre o $m^2$ do primeiro andar e o preço da casa. Queremos explicar o preço da casa a partir do seu tamanho, por isso dizemos que:
+Ajustamos uma reta entre o m^2 do primeiro andar e o preço da casa. Queremos explicar o preço da casa a partir do seu tamanho, por isso dizemos que:
 
-* Variável explicativa/independente: Área do primeiro andar
+Variável explicativa/independente: Área do primeiro andar
 
-* Variável resposta/dependente: Preço da casa
+Variável resposta/dependente: Preço da casa
 
 <img width="1425" height="450" alt="Image" src="https://github.com/user-attachments/assets/c0ba04b7-e469-4468-8532-133e1f896408" />
 
