@@ -26,6 +26,7 @@ preco_de_venda: Este é o preço de venda da propriedade em reais. É a variáve
 # Introdução
 Neste repositório, estabelecemos o preço de venda de casas, analisando as diversas características que influenciam sua precificação. Para alcançar esse objetivo, utilizei a regressão linear como metodologia. Vale lembrar que todas as análises foram realizadas no Colab para facilitar o processo.
 
+<img src="https://i.imgur.com/e4gytI1.png" width="800"/>
 
 # Análise Visual dos Dados
 Olhando para a distribuição dos pontos azuis, podemos tirar algumas conclusões rápidas de análise de dados:
